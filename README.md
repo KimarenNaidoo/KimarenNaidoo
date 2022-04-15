@@ -11,7 +11,7 @@
 
 
 ## Languages and Tools:
-[<img align="left" alt"VSCode" width="26px" src="https://user-images.githubusercontent.com/68677767/163595450-c4521847-0289-4493-a4c0-166a35382395.png"/>]
+<img align="left" alt"VSCode" width="26px" src="https://user-images.githubusercontent.com/68677767/163595450-c4521847-0289-4493-a4c0-166a35382395.png"/>
 
 [website]: https://kimarennaidoo.com/
 [linkedin]: https://www.linkedin.com/in/kimaren-naidoo!
