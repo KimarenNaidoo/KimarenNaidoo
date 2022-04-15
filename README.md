@@ -8,8 +8,7 @@
 - ⚡ Fun fact: I love to draw and read.
 
 ## Connect with me: 
-[<img align"left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/hlobe.svg" />][website]
-[<img align"left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 ## Languages and Tools:
 
