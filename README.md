@@ -25,5 +25,5 @@
 
 
 [website]: https://kimarennaidoo.com/
-[linkedin]: https://www.linkedin.com/in/kimaren-naidoo!
+[linkedin]: https://www.linkedin.com/in/kimaren-naidoo
 
