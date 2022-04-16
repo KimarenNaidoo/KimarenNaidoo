@@ -1,4 +1,4 @@
-### Hi there, I'm [Kimaren][website] 👋
+# Hi there, I'm [Kimaren][website] 👋
 
 
 ## I'm a Software Engineer
