@@ -2,10 +2,6 @@
 
 
 ## I'm a Software Engineer
-- 🔭 I’m currently working on updating my website.
-- 🌱 I’m currently studying for the OCA Java SE 8 Programmer certification.
-- 🥅 2022 Goals: Learn more about crypto, AI, and web3.
-- ⚡ Fun fact: I love to draw and read.
 
 ## Connect with me: 
 [![icons8-website-48](https://user-images.githubusercontent.com/68677767/163668144-f9e6155b-a0a0-414c-8e01-bf93079905fe.png)][website]
