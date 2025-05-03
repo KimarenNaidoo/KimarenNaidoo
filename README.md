@@ -30,6 +30,6 @@ I'm [Kimaren][website], a software engineer passionate about building applicatio
 
 
 
-[website]: https://kimarennaidoo.com/
+[website]: https://kimarennaidoo.org/
 [linkedin]: https://www.linkedin.com/in/kimaren-naidoo
 
